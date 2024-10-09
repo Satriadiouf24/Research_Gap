@@ -7,26 +7,7 @@
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1Uw2CHBe_eHYMFKYxo-it4ZcResDWcvea/view?usp=sharing">Comparison of B-Value Predictions as Earthquake Precursors using Extreme LearningMachine and Deep Learning</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
-|      |<a>Pengaruh Variabel Lingkungan terhadap Akurasi Model Prediksi Gempa: sebuah pendekatan baru</a>                                          | Meneliti dan menganalisis pengaruh variabel lingkungan (suhu, kelembapan, tekanan atmosfer, dan fluktuasi tingkat air tanah) terhadap akurasi model prediksi gempa yang menggunakan metode pembelajaran mesin.
-2. Desain Penelitian
-Penelitian ini menggunakan pendekatan kuantitatif dengan desain eksperimental dan analisis data. Penelitian akan dilakukan dalam dua fase: pengumpulan data dan analisis model.
-3. Pengumpulan Data
-3.1. Data Seismik
-
-Mengumpulkan data gempa bumi dari lembaga seismologi nasional (misalnya, Badan Meteorologi, Klimatologi, dan Geofisika) dan internasional (misalnya, USGS).
-Data yang dikumpulkan mencakup waktu, lokasi (koordinat), magnitudo, dan kedalaman gempa dalam periode waktu tertentu (misalnya, 10 tahun terakhir).
-3.2. Data Variabel Lingkungan
-
-Mengumpulkan data lingkungan dari stasiun meteorologi dan sensor tanah yang terletak di daerah yang sama dengan data gempa.
-Variabel yang dikumpulkan meliputi:
-Suhu (°C)
-Kelembapan relatif (%)
-Tekanan atmosfer (hPa)
-Fluktuasi tingkat air tanah (cm)
-Data lingkungan akan diambil secara harian atau mingguan untuk periode yang sama dengan data gempa.
-3.3. Data Historis
-
-Mengumpulkan data historis untuk analisis tren dan pola, termasuk data geologi dan seismologi yang relevan. |
+|      |<a>Pengaruh Variabel Lingkungan terhadap Akurasi Model Prediksi Gempa: sebuah pendekatan baru</a>                                          | Meneliti dan menganalisis pengaruh variabel lingkungan (suhu, kelembapan, tekanan atmosfer, dan fluktuasi tingkat air tanah) terhadap akurasi model prediksi gempa yang menggunakan metode pembelajaran mesin. |
 
 <br></br>
 
