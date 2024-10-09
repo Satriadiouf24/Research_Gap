@@ -7,8 +7,7 @@
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1Uw2CHBe_eHYMFKYxo-it4ZcResDWcvea/view?usp=sharing">Comparison of B-Value Predictions as Earthquake Precursors using Extreme LearningMachine and Deep Learning</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
-| Num  | Artikel Penelitian                                                                                                                                                    | 
-Methodology                                                                |
+| Num  | Artikel Penelitian                                                                                                                                                    | Methodology                                                                |
 |      |<a>Pengaruh Variabel Lingkungan terhadap Akurasi Model Prediksi Gempa: sebuah pendekatan baru</a>                                          | Meneliti dan menganalisis pengaruh variabel lingkungan (suhu, kelembapan, tekanan atmosfer, dan fluktuasi tingkat air tanah) terhadap akurasi model prediksi gempa yang menggunakan metode pembelajaran mesin. |
 
 <br></br>
